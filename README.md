@@ -76,6 +76,10 @@ Save Changes:
 
 Remember to save your changes in VSCode. The application will automatically reload in the browser to reflect the updates.
 
+### This is Dynamically changing the name in real time State and this is also helps in providing feedback to users for input changes.
+
+![alt text](image-6.png)
+
 #### 6) Commit Your Changes
 
 #### If you want to track your changes, initialize a git repository:
