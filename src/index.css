@@ -10,13 +10,13 @@ body {
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  max-width: 800px; /* Increased width */
-  margin: 0 auto; /* Center the form container */
+  max-width: 800px; 
+  margin: 0 auto; 
 }
 
 .header {
   display: flex;
-  justify-content: flex-end; /* Align user info to the right */
+  justify-content: flex-end;
   align-items: center;
   margin-bottom: 20px;
 }
@@ -47,8 +47,8 @@ h2 {
 .section-title {
   font-size: 1.2em;
   margin-bottom: 10px;
-  border-bottom: 2px solid #4CAF50; /* Green border for section title */
-  padding-bottom: 5px; /* Padding for spacing */
+  border-bottom: 2px solid #4CAF50; 
+  padding-bottom: 5px; 
 }
 
 label {
@@ -81,7 +81,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
   font-size: 16px;
-  width: 100%; /* Make the button full width */
+  width: 100%; 
 }
 
 button:hover {
